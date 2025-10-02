@@ -15,7 +15,7 @@ function NavBar() {
         Login
       </NavLink>
       <NavLink to="/register" className={styles.navLink}>
-        Register
+        Cadastro
       </NavLink>
     </nav>
   );
